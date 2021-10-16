@@ -1,38 +1,431 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-<loc>https://www.ps-scripting.com/thankyou.html</loc>
-<lastmod>2020-07-18</lastmod>
-<changefreq>Weekly</changefreq>
-<priority>0.5</priority>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://www.ps-scripting.com/thankyou.html</loc>
+	<lastmod>2021-10-16</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
 </url>
 <url>
-<loc>https://www.ps-scripting.com/bundles.html</loc>
-<lastmod>2020-07-18</lastmod>
-<changefreq>Weekly</changefreq>
-<priority>0.5</priority>
+	<loc>https://www.ps-scripting.com/bundles.html</loc>
+	<lastmod>2021-10-16</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/bundles-mini@1x.jpg</image:loc>
+	<image:title>bundles mini@1x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/bundles-mini-videos@1x.jpg</image:loc>
+	<image:title>bundles mini-videos@1x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/bundles-midi@1x.jpg</image:loc>
+	<image:title>bundles midi@1x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/bundles-midi-videos@1x.jpg</image:loc>
+	<image:title>bundles midi-videos@1x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/bundles-maxi@1x.jpg</image:loc>
+	<image:title>bundles maxi@1x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/bundles-maxi-videos@1x.jpg</image:loc>
+	<image:title>bundles maxi-videos@1x</image:title>
+	</image:image>
 </url>
 <url>
-<loc>https://www.ps-scripting.com/js-native-apps-for-photoshop.html</loc>
-<lastmod>2020-07-18</lastmod>
-<changefreq>Weekly</changefreq>
-<priority>0.5</priority>
+	<loc>https://www.ps-scripting.com/js-native-apps-for-photoshop.html</loc>
+	<lastmod>2021-10-16</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/00_thumb.png</image:loc>
+	<image:title>00_thumb</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/01_thumb.png</image:loc>
+	<image:title>01_thumb</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/02_thumb.png</image:loc>
+	<image:title>02_thumb</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/03_thumb.png</image:loc>
+	<image:title>03_thumb</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/04_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/05_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/06_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/07_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/08_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/09_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/10_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/11_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/12_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/13_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/14_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/15_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/16_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/17_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/18_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/19_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/20_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/21_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/21-BIS_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/22_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/23_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/24_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/25_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/26_thumb.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/Tech_02_Vuejs@2x.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/Tech_03_Vuetify@2x.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/Tech_09_ml5@2x.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/Tech_01_NWjs@2x.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/Tech_04_Nodejs@2x.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/Tech_05_SocketIO@2x.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/Tech_06_Generator@2x.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/Tech_07_Photoshop@2x.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/Tech_08_VSCode@2x.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/Tech_10_git@2x.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/modal.jpg</image:loc>
+	<image:title>modal</image:title>
+	</image:image>
 </url>
 <url>
-<loc>https://www.ps-scripting.com/ps-scripting.html</loc>
-<lastmod>2020-07-18</lastmod>
-<changefreq>Weekly</changefreq>
-<priority>0.5</priority>
+	<loc>https://www.ps-scripting.com/ps-scripting.html</loc>
+	<lastmod>2021-10-16</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/cover.jpg</image:loc>
+	<image:title>cover</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/open-book-1.jpg</image:loc>
+	<image:title>open book-1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/open-book-2.jpg</image:loc>
+	<image:title>open book-2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/open-book-3.jpg</image:loc>
+	<image:title>open book-3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/open-book-4.jpg</image:loc>
+	<image:title>open book-4</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/open-book-5.jpg</image:loc>
+	<image:title>open book-5</image:title>
+	</image:image>
 </url>
 <url>
-<loc>https://www.ps-scripting.com</loc>
-<lastmod>2020-07-18</lastmod>
-<changefreq>Weekly</changefreq>
-<priority>1.0</priority>
+	<loc>https://www.ps-scripting.com</loc>
+	<lastmod>2021-10-16</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/uxpbook.png</image:loc>
+	<image:title>uxpbook_hi</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/bundles-ps.jpg</image:loc>
+	<image:title>bundles ps</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/bundles-html.jpg</image:loc>
+	<image:title>bundles html</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/bundles-automation.jpg</image:loc>
+	<image:title>bundles automation</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/JS-PS-app.png</image:loc>
+	<image:title>JS Native Apps</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/io.jpg</image:loc>
+	<image:title>io</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/SiB_Hero_lowres.jpg</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/SiB_Hero_lowres.jpg</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
 </url>
 <url>
-<loc>https://www.ps-scripting.com/confirm.html</loc>
-<lastmod>2020-07-18</lastmod>
-<changefreq>Weekly</changefreq>
-<priority>0.5</priority>
+	<loc>https://www.ps-scripting.com/confirm.html</loc>
+	<lastmod>2021-10-16</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://www.ps-scripting.com/landing-old.html</loc>
+	<lastmod>2021-10-16</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/JS-PS-app.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/bundles-ps.jpg</image:loc>
+	<image:title>bundles ps</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/bundles-html.jpg</image:loc>
+	<image:title>bundles html</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/bundles-automation.jpg</image:loc>
+	<image:title>bundles automation</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/io.jpg</image:loc>
+	<image:title>io</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://www.ps-scripting.com/uxp-react.html</loc>
+	<lastmod>2021-10-16</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/uxpbook.png</image:loc>
+	<image:title>cover</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/uxp-032.jpg</image:loc>
+	<image:title>uxp 126</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/uxp-040.jpg</image:loc>
+	<image:title>uxp 040</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/uxp-068.jpg</image:loc>
+	<image:title>uxp 068</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/uxp-114.jpg</image:loc>
+	<image:title>uxp 114</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/uxp-126.jpg</image:loc>
+	<image:title>uxp 126</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/uxp-168.jpg</image:loc>
+	<image:title>uxp 168</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/uxp-192.jpg</image:loc>
+	<image:title>uxp 192</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/uxp-236.jpg</image:loc>
+	<image:title>uxp 236</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/00_UXP@1x.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/01_UXP@1x.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/02_UXP@1x.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/03_UXP@1x.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/04_UXP@1x.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/05_UXP@1x.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/06_UXP@1x.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/07_UXP@1x.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/08_UXP@1x.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/09_UXP@1x.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/10_UXP@1x.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/11_UXP@1x.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/12_UXP@1x.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/13_UXP@1x.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/14_UXP@1x.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/15_UXP@1x.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/16_UXP@1x.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/code@1x.jpg</image:loc>
+	<image:title>code@1x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/OpenGraph_UXP.jpg</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ps-scripting.com/img/OpenGraph_UXP.jpg</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
 </url>
 </urlset>
