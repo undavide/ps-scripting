@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://www.ps-scripting.com/thankyou.html</loc>
-	<lastmod>2021-10-16</lastmod>
+	<lastmod>2021-10-19</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
 <url>
 	<loc>https://www.ps-scripting.com/bundles.html</loc>
-	<lastmod>2021-10-16</lastmod>
+	<lastmod>2021-10-19</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -38,7 +38,7 @@
 </url>
 <url>
 	<loc>https://www.ps-scripting.com/js-native-apps-for-photoshop.html</loc>
-	<lastmod>2021-10-16</lastmod>
+	<lastmod>2021-10-19</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -200,7 +200,7 @@
 </url>
 <url>
 	<loc>https://www.ps-scripting.com/ps-scripting.html</loc>
-	<lastmod>2021-10-16</lastmod>
+	<lastmod>2021-10-19</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -230,7 +230,7 @@
 </url>
 <url>
 	<loc>https://www.ps-scripting.com</loc>
-	<lastmod>2021-10-16</lastmod>
+	<lastmod>2021-10-19</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -268,13 +268,13 @@
 </url>
 <url>
 	<loc>https://www.ps-scripting.com/confirm.html</loc>
-	<lastmod>2021-10-16</lastmod>
+	<lastmod>2021-10-19</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
 <url>
 	<loc>https://www.ps-scripting.com/landing-old.html</loc>
-	<lastmod>2021-10-16</lastmod>
+	<lastmod>2021-10-19</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -308,7 +308,7 @@
 </url>
 <url>
 	<loc>https://www.ps-scripting.com/uxp-react.html</loc>
-	<lastmod>2021-10-16</lastmod>
+	<lastmod>2021-10-19</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
